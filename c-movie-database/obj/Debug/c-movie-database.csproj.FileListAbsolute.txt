@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\obj\Debug\c-movie-database.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\obj\Debug\c-movie-database.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\bin\Debug\c-movie-database.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\bin\Debug\c-movie-database.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\bin\Debug\c-movie-database.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\obj\Debug\c-movie-database.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-movie-database\c-movie-database\obj\Debug\c-movie-database.pdb
